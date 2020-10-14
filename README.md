@@ -5,5 +5,6 @@ A small C# program that can perform 2 tasks:
 2) Count the longest sequence of same parity numbers in a given sequence of numbers.
 
 Both tasks are performed efficiently. Made with Visual Studio, in C#. 
+Made for the BitStone contest, 2019.
 
 Creation Date: 11.03.2019
